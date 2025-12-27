@@ -29,17 +29,17 @@ Estas son las únicas operaciones que el programa puede utilizar y generar:
 
 | Operación | Descripción                              | Imprime   |
 |-----------|----------------------------------------- -|----------|
-| `sa`      | Intercambia los dos primeros elementos de la pila a   | `sa`     |
-| `sb`      | Intercambia los dos primeros elementos de la pila b   | `sb`     |
-| `ss`      | `sa` y `sb` al mismo tiempo            | `ss`     |
-| `pa`      | Empuja la parte superior de b a la parte superior de a                 | `pa`     |
-| `pb`      | Empuja la parte superior de a a la parte superior de b                 | `pb`     |
-| `ra`      | Gira a hacia arriba (primero → último)           | `ra`     |
-| `rb`      | Gira b hacia arriba                         | `rb`     |
-| `rr`      | `ra` y `rb` al mismo tiempo            | `rr`     |
-| `rra`     | Rotar a hacia abajo (último → primero) | `rra`    |
-| `rrb`     | Rotar b hacia abajo               | `rrb`    |
-| `rrr`     | `rra` y `rrb` al mismo tiempo         | `rrr`    |
+| `sa`      | Intercambia los dos primeros elementos de la pila a   |`sa` |
+| `sb`      | Intercambia los dos primeros elementos de la pila b   |`sb` |
+| `ss`      | `sa` y `sb` al mismo tiempo                           |`ss` |
+| `pa`      | Empuja la parte superior de b a la parte superior de a  |`pa`|
+| `pb`      | Empuja la parte superior de a a la parte superior de b  |`pb`|
+| `ra`      | Gira a hacia arriba (primero → último) |`ra`|
+| `rb`      | Gira b hacia arriba                    |`rb`|
+| `rr`      | `ra` y `rb` al mismo tiempo            |`rr`|
+| `rra`     | Rotar a hacia abajo (último → primero) | `rra`|
+| `rrb`     | Rotar b hacia abajo               |`rrb`|
+| `rrr`     | `rra` y `rrb` al mismo tiempo         |`rrr`|
 
 ### Compilación
 El proyecto incluye un `Makefile` estándar con las siguientes reglas:
