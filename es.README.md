@@ -27,8 +27,8 @@ El programa toma una serie de números enteros como entrada (ya sea como argumen
 ### Operaciones permitidas
 Estas son las únicas operaciones que el programa puede utilizar y generar:
 
-| Operación | Descripción                              | Imprime   |
-|-----------|----------------------------------------- -|----------|
+| Operación | Descripción                              | Imprime  |
+|-----------|------------------------------------------|----------|
 | `sa`      | Intercambia los dos primeros elementos de la pila a   |`sa` |
 | `sb`      | Intercambia los dos primeros elementos de la pila b   |`sb` |
 | `ss`      | `sa` y `sb` al mismo tiempo                           |`ss` |
