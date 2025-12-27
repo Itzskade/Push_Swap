@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="es.README.md">
+    <img src="https://img.shields.io/badge/🌐%20Español-README-blue?style=for-the-badge" alt="README Español" />
+  </a>
+</p>
+
 # Push_Swap
 _This project has been created as part of the 42 curriculum by `rmarin-n`_
 
