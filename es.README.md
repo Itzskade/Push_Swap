@@ -4,6 +4,11 @@
   </a>
 </p>
 
+<div align="left">
+    <img src='https://img.shields.io/badge/Barcelona-black?style=flat&logo=42&logoColor=white'/>
+    <img src="https://img.shields.io/badge/puntuación-125%20%2F%20100-success?colorgreen&style=flat" />
+</div>
+
 # Push_Swap
 _Este proyecto ha sido creado como parte del plan de estudios 42 por `rmarin-n`_
 
