@@ -26,19 +26,19 @@ The program takes a series of integers as input (either as separate arguments or
 ### Allowed operations
 These are the only operations the program can use and output:
 
-| Operation | Description                              | Prints   |
-|-----------|------------------------------------------|----------|
-| `sa`      | Swap the first two elements of stack a   | `sa`     |
-| `sb`      | Swap the first two elements of stack b   | `sb`     |
-| `ss`      | `sa` and `sb` at the same time            | `ss`     |
-| `pa`      | Push top of b to top of a                 | `pa`     |
-| `pb`      | Push top of a to top of b                 | `pb`     |
-| `ra`      | Rotate a upwards (first → last)           | `ra`     |
-| `rb`      | Rotate b upwards                         | `rb`     |
-| `rr`      | `ra` and `rb` at the same time            | `rr`     |
-| `rra`     | Reverse rotate a downwards (last → first)| `rra`    |
-| `rrb`     | Reverse rotate b downwards               | `rrb`    |
-| `rrr`     | `rra` and `rrb` at the same time         | `rrr`    |
+| Operation | Description                               |
+|-----------|-------------------------------------------|
+| `sa`      | Swap the first two elements of stack a    |
+| `sb`      | Swap the first two elements of stack b    |
+| `ss`      | `sa` and `sb` at the same time            |
+| `pa`      | Push top of b to top of a                 |
+| `pb`      | Push top of a to top of b                 |
+| `ra`      | Rotate a upwards (first → last)           | 
+| `rb`      | Rotate b upwards                          | 
+| `rr`      | `ra` and `rb` at the same time            |
+| `rra`     | Reverse rotate a downwards (last → first) |
+| `rrb`     | Reverse rotate b downwards                |
+| `rrr`     | `rra` and `rrb` at the same time          |
 
 ### Compilation
 The project includes a standard `Makefile` with the following rules:
