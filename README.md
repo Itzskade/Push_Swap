@@ -6,7 +6,7 @@
 
 <div align="left">
     <img src='https://img.shields.io/badge/Barcelona-black?style=flat&logo=42&logoColor=white'/>
-    <img src="https://img.shields.io/badge/score-125%20%2F%20100-success?color=green&style=flat" />
+    <img src="https://img.shields.io/badge/score-84%20%2F%20100-success?color=green&style=flat" />
 </div>
 
 # Push_Swap
