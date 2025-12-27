@@ -1,4 +1,4 @@
-# push_swap
+# Push_Swap
 _This project has been created as part of the 42 curriculum by `rmarin-n`_
 
 ##  **Description**
