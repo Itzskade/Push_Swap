@@ -58,6 +58,9 @@ Compilation uses the flags `-Wall -Wextra -Werror`.
 ### Usage
 ```bash
 ./push_swap [number1 number2 number3 ...]
+or
+ARG=$(shuf -n 100 -i 1-100) # example range
+./push_swap $ARG | ./checker_linux -d $ARG
 ```
 ---
 
