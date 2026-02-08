@@ -59,6 +59,9 @@ La compilación utiliza los indicadores `-Wall -Wextra -Werror`.
 ### Uso
 ```bash
 ./push_swap [número1 número2 número3 ...]
+o
+ARG=$(shuf -n 100 -i 1-100) # rango de ejemplo
+./push_swap $ARG | ./checker_linux -d $ARG
 ```
 
 ---
